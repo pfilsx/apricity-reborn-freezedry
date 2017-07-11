@@ -1,0 +1,7 @@
+*.swp
+*__pycache__
+*.pyc
+*.pyo
+freezedry.egg-info
+dist
+build
